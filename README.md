@@ -12,7 +12,7 @@ To identify the monuments from Satellite Images using Deep Learning and Integrat
 |Aniket Thakur *(Team Lead)*|
 |Aditi|
 |Ashita Priya|
-|Nitin Kumar|
+|[Nitin Kumar](https://github.com/Nitin-45)|
 |Piyush Kumar Singh|
 |Soham Dutta|
 
